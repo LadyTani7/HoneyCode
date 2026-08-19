@@ -18,6 +18,10 @@ Plataforma web interactiva para aprender a programar desde cero, con lecciones c
 - **Sección de Proyectos**: 2 mini proyectos guiados por lenguaje (24 en total) con checklist y seguimiento de completados.
 - **Tour guiado "¿Cómo funciona?"** que explica la plataforma paso a paso.
 - **Panel Administrativo**: estadísticas generales de la plataforma (cuentas, cursos, lecciones, certificados, progreso) y lista de cuentas registradas, accesible desde el menú superior.
+- **Modo oscuro**: alternable desde el menú superior, con paleta propia guardada por navegador.
+- **Rutas temáticas**: caminos guiados que agrupan varios cursos relacionados (ej. Desarrollador Web, Ciencia de Datos y Backend, Ingeniería de Software, Blockchain Developer) con progreso conjunto y acceso directo al siguiente curso pendiente.
+- **Pistas de Honey**: sugerencias guionadas de la mascota tras varios intentos fallidos en un ejercicio o evaluación, sin IA ni costo asociado.
+- **Repaso espaciado**: la plataforma sugiere a diario una lección ya completada para repasar, con acceso directo desde el menú superior.
 - **Diseño responsivo**: adaptado para escritorio, celular en vertical y en horizontal.
 
 ## 🛠️ Tecnología
